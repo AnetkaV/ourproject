@@ -1,0 +1,52 @@
+HTML 
+<!-- Poznámka -->
+
+<!DOCTYPE html> <!-- Řekneme prohlížeči, že je to HTML-->
+<html> <!-- Začátek HTML-->
+
+<head>
+<!-- Hlavička-->
+</head>
+
+<body>
+
+    <!--tělo stránky-->
+</body>
+
+
+</html>                   
+
+Seznamy
+ul - nedříděny 
+
+ol - tříděný 
+
+b od strong se od sebe liší kvuli seo aby tě vyhledávač našel používá se strong
+
+tagy s atributy
+<tag attribute="value"> 
+
+obrázek 
+<img src="obrázek />  
+
+nejlepší praktiky 
+každý programátor by měl odsazovat kód 
+poslední tag co otevírám je první co zavírám¨
+div je oddělovač obsahu
+
+twitter bootstrap
+responsive web design 
+framework - knihovna generické funkčnosti, je nastavitelná, lze použít jen na části, je vytvořen v twitteru,
+je to 12 sloupcvá mřížka (řádek = row)¨
+breakpoints - mobile, mobile plus, tablet, monitor, projektor
+col- class="col", col-size - class="col-6", col-breakpoint-size - class="col-md-6"
+
+https://hackerthemes.com/bootstrap-cheatsheet/ tahák
+
+
+slides - navigation bar - 
+
+javascrip
+programování - říkat počítači co má dělat, je jeden z nejpopulárnějších jazyků, umí všechno, je silný, 
+developer.mozilla.org/cs/docs/Web/Javacript
+codingame.com
